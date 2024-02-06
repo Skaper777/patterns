@@ -37,7 +37,6 @@ function Fabric(specialist, name) {
   }
 }
 
-const SPECIALISTS_LIST = ["Врач", "Преподаватель", "Студент"];
 const PEOPLE_LIST = [
   {
     name: "Иван",
